@@ -12,6 +12,6 @@ The dataset used for the dog vs. cat classification is available on [Kaggle](htt
 | *L*  | Set #  | Supervised accuracy (%) | Semi-supervised accuracy (%) | SSGAN epochs  | Increase in accuracy (%) |
 |---|---|---|---|---|---|
 | 100  | 1  | 60.2  | 83.2  | 40  | 23  |
-| 100  | 2  | 56.7  |   |   |   |
+| 100  | 2  | 56.7  | 68.1  | 34  | 11.4  |
 | 100  | 3  | 62.1  |   |   |   |
 

@@ -13,5 +13,6 @@ The dataset used for the dog vs. cat classification is available on [Kaggle](htt
 |---|---|---|---|---|---|
 | 100  | 1  | 60.2  | 83.2  | 40  | 23  |
 | 100  | 2  | 56.7  | 68.1  | 34  | 11.4  |
-| 100  | 3  | 62.1  |   |   |   |
+| 100  | 3  | 62.1  |  71.7 | 14  | 9.6  |
+| 100  | average  | 59,7  |  74.3 | 29  | 14,7  |
 

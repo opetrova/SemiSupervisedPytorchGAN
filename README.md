@@ -1,5 +1,7 @@
 A semi-supervised GAN for image classification implemented in Pytorch
 
+* 13.02.2020: I am currently researching a new approach to semi-supervised learning with GANs, so this page will get updated periodically. In the meantime, please feel free to read on for a (hopefully, painless) introduction into the topic, check out [the slides I used for a meetup talk](220120_meetup_slides.pdf) on this subject, or [watch the video of the said meetup](https://lnkd.in/gWV3x8u) (semi-supervised GANs start at 17:30).
+
 ______________________
 
 # Semi-Supervised Learning with GANs: a Tale of Cats and Dogs 

@@ -562,6 +562,6 @@ Coming back to the point that was made about "bad" Generators earlier, here are 
 *Some of the "complement" dog-cats that were generated after 13 training epochs, when the Classifier already beat the supervised baseline by ~10% in accuracy*
 
 ### Conclusion
-Data, its quantity and quality, is one of the major factors contributing to the success or failure of a machine learning project. Labelling the said data is a bottleneck that is hard to optimize since it generally requires human expertise. Semi-supervised learning provides another route to getting the job done: instead of labelling additional training data, the model's performance can be enhanced through the use of unlabelled training samples. A semi-supervised GAN is one of the possible approaches to take you futher in this direction, and we hope that you choose the [Scaleway GPU instances](https://www.scaleway.com/en/gpu-instances/) to accompany you on this journey!
+Data, its quantity and quality, is one of the major factors contributing to the success or failure of a machine learning project. Labelling the said data is a bottleneck that is hard to optimize since it generally requires human expertise. Semi-supervised learning provides another route to getting the job done: instead of labelling additional training data, the model's performance can be enhanced through the use of unlabelled training samples. A semi-supervised GAN is one of the possible approaches to take you futher in this direction!
 
-(First published as a [Scaleway blog post](https://blog.scaleway.com/2020/semi-supervised/))
+(Originally published [here](https://blog.scaleway.com/2020/semi-supervised/))

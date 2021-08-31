@@ -79,7 +79,7 @@ What is a bad Generator? A Generator that spits out random noise is certainly a 
 
 ![circles3](figures/circles3.png)
 
-Producing "fake" points in between the two circles will help the Classifier assign the real points to correct class: whatever is real and has a smaller distance to the center than the fake belt, is blue, amd whatever is real and has a larger radius is orange. In other words, a complement Generator helps refine the *decision boundary* between classes. 
+Producing "fake" points in between the two circles will help the Classifier assign the real points to correct class: whatever is real and has a smaller distance to the center than the fake belt, is blue, and whatever is real and has a larger radius is orange. In other words, a complement Generator helps refine the *decision boundary* between classes. 
 
 We shall see some more real-world examples of images generated in complimentary feature space when we look at the semi-supervised GAN that I wrote and trained for the cat vs. dog binary classification. Speaking of which, it is time to find out...
 
